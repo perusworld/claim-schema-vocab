@@ -62,3 +62,11 @@ documentType identifies the document type which belongs to the claim data
 ```
   "verified": true 
  ```
+# kyclvl
+
+kyclvl represents the kyc level as integer value
+
+```
+  "kyclvl": 0
+```
+
